@@ -1,0 +1,315 @@
+{
+	"asia": [{
+			"id": 1,
+			"name": "Mount Everest",
+			"height": "8,848m",
+			"age": "50 to 60 million years",
+			"mountain range": "Mahalangur Himalaya",
+			"fact": "Mount Everest grows approximately 44 millimeters every year",
+			"country": "Nepal",
+			"coordinates": "27.9881° N, 86.9250° E"
+		},
+		{
+			"id": 2,
+			"name": "Mount K2",
+			"height": "8,611 m",
+			"age": "unknown",
+			"mountain range": "Karakoram Range",
+			"fact": "K2 is the second-highest mountain on Earth",
+			"country": "Pakistan",
+			"coordinates": "35.8800° N, 76.5151° E"
+		},
+		{
+			"id": 3,
+			"name": "Mount Kangchenjunga",
+			"height": "8,586m",
+			"age": "445 million to 1 billion years",
+			"mountain range": "Himalayas",
+			"fact": "The Kangchenjunga is the second least climbed peak of the 14 peaks over 8,000 meters (26,247 feet)",
+			"country": "Nepal/India",
+			"coordinates": "27.7025° N, 88.1475° E"
+		},
+		{
+			"id": 4,
+			"name": "Mount Lhotse",
+			"height": "8,516m",
+			"age": "unknown",
+			"mountain range": "Himalayas",
+			"fact": "Lhotse is the fourth highest peak in the world and lies just south of Mount Everest.",
+			"country": "China/Nepal",
+			"coordinates": "27.9626° N, 86.9336° E"
+		},
+		{
+			"id": 5,
+			"name": "Mount Makalu",
+			"height": "8,463m",
+			"age": "unknown",
+			"mountain range": "Mahalangur Himalayas",
+			"fact": "Makalu is fifth-tallest mountain in the whole world.",
+			"country": "Nepal",
+			"coordinates": "27.8857° N, 87.0876° E"
+		}
+
+	],
+	"africa": [{
+			"id": 1,
+			"name": "Mount Kilimanjaro",
+			"height": "5,895m",
+			"age": "4 million years",
+			"mountain range": "Eastern Rift mountains",
+			"fact": "Mount Kilimanjaro is the highest freestanding mountain in the world.",
+			"country": "Tanzania",
+			"coordinates": "3.0674° S, 37.3556° E"
+		},
+		{
+			"id": 2,
+			"name": "Mount Kenya",
+			"height": "5,199 m",
+			"age": "3.1-2.6 million years",
+			"mountain range": "Eastern Rift mountains",
+			"fact": "Mount Kenya is an extinct volcano which originally rose an estimated 3 million years ago and last erupted an estimated 2.6 million years ago.",
+			"country": "Kenya",
+			"coordinates": "0.1521° S, 37.3084° E"
+		},
+		{
+			"id": 3,
+			"name": "Mount Stanley",
+			"height": "5,109 m",
+			"age": "10 million years",
+			"mountain range": "Rwenzori Mountains",
+			"fact": "The African Rift Systems Mt. Stanley is a fault-block mountain that rises between two rifts in the region.",
+			"country": "Uganda/Democratic Republic of Congo",
+			"coordinates": "0.3912° N, 29.8694° E"
+		},
+		{
+			"id": 4,
+			"name": "Mount Meru",
+			"height": "4,562.13m",
+			"age": "250 000 years",
+			"mountain range": "Eastern Rift mountains",
+			"fact": "Meru's summit is rocky and barren, its slopes are highly fertile, with many streams and thick forests.",
+			"country": "Tanzania",
+			"coordinates": "3.2393° S, 36.7627° E"
+		},
+		{
+			"id": 5,
+			"name": "Mount Simien",
+			"height": "4,550m",
+			"age": "25-40 million years",
+			"mountain range": "Ethiopian Highlands",
+			"fact": "it is home to globally threatened species, including the iconic Walia ibex, a wild mountain goat found nowhere else in the world, the Gelada baboon and the Ethiopian wolf.",
+			"country": "Ethiopia",
+			"coordinates": "13.4928° N, 38.4436° E"
+		}
+
+	],
+    "northamerica": [{
+			"id": 1,
+			"name": "Mount McKinley",
+			"height": "6,190 m",
+			"age": "60 million years",
+			"mountain range": "Alaska Range",
+			"fact": "The native Koyukon Athabascan people call the mountain Denali, which is usually translated as The Great One.",
+			"country": "Alaska",
+			"coordinates": "63.0692° N, 151.0070° W"
+		},
+		{
+			"id": 2,
+			"name": "Mount Logan",
+			"height": "6,050 m",
+			"age": "unknown",
+			"mountain range": "Saint Elias Mountains",
+			"fact": "Mount Logan is the source of the Hubbard and Logan glaciers.",
+			"country": "Canada",
+			"coordinates": "60.5670° N, 140.4053° W"
+		},
+		{
+			"id": 3,
+			"name": "Pico de Orizaba",
+			"height": "5,675 m",
+			"age": "16,000 years",
+			"mountain range": "Cordillera Neovolcanica",
+			"fact": "The volcano sits about 120 miles east of Mexico City and is visible from nearly 70 miles away.",
+			"country": "Mexico",
+			"coordinates": "19.0304° N, 97.2681° W"
+		},
+		{
+			"id": 4,
+			"name": "Mount Saint Elias",
+			"height": "5,488m",
+			"age": "35 million years",
+			"mountain range": "Saint Elias Mountains",
+			"fact": "Mount Saint Elias the first part of the North American mainland to be seen by Russian explorers.",
+			"country": "Canada and/United States",
+			"coordinates": "60.2933° N, 140.9294° W"
+		},
+		{
+			"id": 5,
+			"name": " Mount Popocatepetl",
+			"height": "5,488m",
+			"age": "730,000 years",
+			"mountain range": "Cordillera Neo-Volcánica",
+			"fact": "It is the 2nd highest volcano in North America and the 5th highest peak in North America.",
+			"country": "Mexico",
+			"coordinates": "19.0224° N, 98.6279° W"
+		}
+
+	],
+    "southamerica": [{
+			"id": 1,
+			"name": "Mount Aconcagua",
+			"height": "6,960.8m",
+			"age": "9.5 million years",
+			"mountain range": "Andes Mountain Range",
+			"fact": "Aconcagua is one of the Seven Summits, the highest peaks on each of the seven continents. It is second in height after Mount Everest.",
+			"country": "Argentina",
+			"coordinates": "32.6532° S, 70.0109° W"
+		},
+		{
+			"id": 2,
+			"name": "Mount Ojos del Salado",
+			"height": "6,893m",
+			"age": "3.5-3.4 million years",
+			"mountain range": "Andes Mountain Range",
+			"fact": "The highest active volcano in the world, it towers over the altiplano at a breath-taking 22,615 ft.",
+			"country": "Chile /Argentina",
+			"coordinates": "27.1092° S, 68.5408° W"
+		},
+		{
+			"id": 3,
+			"name": "Mount Huayna Potosi",
+			"height": "6,088m",
+			"age": "unknown",
+			"mountain range": "Andes Mountain Range",
+			"fact": "Huayna Potosi is a complex mountain with a number of sub peaks.",
+			"country": "Bolivia",
+			"coordinates": "16.2619° S, 68.1520° W"
+		},
+		{
+			"id": 4,
+			"name": "Mount Cotopaxi",
+			"height": "5,911m",
+			"age": "450±70 BP",
+			"mountain range": "Andes Mountain Range",
+			"fact": "Cotopaxi National Park Sits on the Longest Road in the World.",
+			"country": "Ecuador",
+			"coordinates": "0.6838° S, 78.4372° W"
+		},
+		{
+			"id": 5,
+			"name": "Mount El Misti",
+			"height": "5,821m",
+			"age": "112,000 years",
+			"mountain range": "Andes Mountain Range",
+			"fact": "El Misti is a Stratovolcano, with its symmetrical cone shape.  It has different layers caused by ash and pyroclastic flows.",
+			"country": "Peru",
+			"coordinates": "16.2988° S, 71.4057° W"
+		}
+
+	],
+	"europe": [{
+			"id": 1,
+			"name": "Mount Elbrus",
+			"height": "5,642m",
+			"age": "2.5 million years",
+			"mountain range": "Caucasus Mountains",
+			"fact": "Mt. Elbrus is the highest point in the world a vehicle has ever accessed!",
+			"country": "Russia",
+			"coordinates": "43.3499° N, 42.4453° E"
+		},
+		{
+			"id": 2,
+			"name": "Mount Dykh-Tau",
+			"height": "5,250m",
+			"age": "unknown",
+			"mountain range": "Caucasus Mountains",
+			"fact": "Famous for its technical difficulty and frequent avalanches, it's a huge challenge for any climber.",
+			"country": "Russia",
+			"coordinates": "43.0525° N, 43.1350° E"
+		},
+		{
+			"id": 3,
+			"name": "Mount Shkhara",
+			"height": "5,193m",
+			"age": "unknown",
+			"mountain range": "Caucasus Mountains",
+			"fact": "Shkhara is the high point and the eastern anchor of a massif known as the Bezingi (or Bezengi) Wall, a 12 kilometers (7 mi) long ridge.",
+			"country": "Georgia",
+			"coordinates": "43.0006° N, 43.1122° E"
+		},
+		{
+			"id": 4,
+			"name": "Mount Koshtan-Tau",
+			"height": "5,151m",
+			"age": "unknown",
+			"mountain range": "Caucasus Mountains",
+			"fact": "Koshtan-Tau is the highest peak (5,144m) of the Koshtan massif of the central Caucasus Mountains in the Kabardino-Balkaria Republic of Russia.",
+			"country": "Russia",
+			"coordinates": "43°0300″N 43°1300″E"
+		},
+		{
+			"id": 5,
+			"name": "Mount Kazbek",
+			"height": "5,054m",
+			"age": "750 BCE ± 50 years",
+			"mountain range": "Caucasus Mountains",
+			"fact": "The site of mount kazbek imprisonment was in a cave called Betlemi, which later became an Orthodox hermitage.",
+			"country": "Georgia",
+			"coordinates": "42.6967° N, 44.5149° E"
+		}
+
+	],
+	"australia": [{
+			"id": 1,
+			"name": "Mount Kosciuszko",
+			"height": "2228m",
+			"age": "490-355 million years",
+			"mountain range": "Snowy Mountains",
+			"fact": "The Kosciuszko National Park was declared as a World Biosphere Reserve in 1997 by UNESCO.",
+			"country": "Australia",
+			"coordinates": "36.4559° S, 148.2636° E"
+		},
+		{
+			"id": 2,
+			"name": "Mount Townsend",
+			"height": "2209m",
+			"age": "unknown",
+			"mountain range": "Snowy Mountains",
+			"fact": "Mount Townsend has a craggier peak and is arguably more dominant than the relatively round-topped.",
+			"country": "Australia",
+			"coordinates": "47.8670° N, 123.0596° W"
+		},
+		{
+			"id": 3,
+			"name": "Mount Twynam",
+			"height": "2195m",
+			"age": "unknown",
+			"mountain range": "Snowy Mountains",
+			"fact": "The mountain is large but unimposing and has good and far-reaching views over Blue Lake Cirque and the Western Falls.",
+			"country": "Australia",
+			"coordinates": "36.3928° S, 148.3153° E"
+		},
+		{
+			"id": 4,
+			"name": "Mount Rams Head",
+			"height": "2190m",
+			"age": "unknown",
+			"mountain range": "Snowy Mountains",
+			"fact": "The mountain attracts hikers in the summer, and during the winter months is covered with snow for back country skiers and alpine touring.",
+			"country": "Australia",
+			"coordinates": "36.5153° S, 148.2347° E "
+		},
+		{
+			"id": 5,
+			"name": "Unnamed peak on Etheridge Ridge",
+			"height": "2180m",
+			"age": "unknown",
+			"mountain range": "Snowy Mountains",
+			"fact": "An elevation standing high above the surrounding area with small summit area, steep slopes and local relief of 300m or more.",
+			"country": "Australia",
+			"coordinates": "36.45847° S, 148.27217° E"
+		}
+	]
+
+
+}
